@@ -66,7 +66,7 @@ A tutorial video for freshman college students, created for the NCSU Libraries i
 * [One Perfect Source?](https://www.youtube.com/watch?v=X2VR5adTjeM)
 
 
-### *Peer Review in 3 Minutes*** instructional video
+### *Peer Review in 3 Minutes* instructional video
 
 A tutorial video for freshman college students, created for the NCSU Libraries instruction program. "How do articles get peer reviewed? What role does peer review play in scholarly research and publication?" Dre's role: Project co-lead, writing, editing
 
