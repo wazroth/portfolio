@@ -3,31 +3,48 @@ A markdownedly brutalist portfolio
 
 Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries.
 
-## Interface design work
+## User experience design work
+
+### D. H. Hill construction signage (2018-present)
+
+In 2019 and 2020, D. H. Hill Library will be undergoing a major renovation that will close 2-4 floors of the 11-floor building; this project aims to minimize space and service disruption and communicate the positive outcomes of the construction project through signage and web presence. This project is in the early planning/conceptual stages.
+
+* something
+* something
+
+### D. H. Hill wayfinding signage update (2018-present)
+
+The D. H. Hill Library is a particularly complex building formed by "gluing" together four separate construction projects built over a span of nearly 50 years; wayfinding paths have historically been particularly problematic for this reason. The goal of this project is to enhance wayfinding and overall user experience in D. H. Hill Library through design and implementation of analog and digital signage. Dre's contributions include initial large-format signage designs, kiosk and signage location planning, overall project management. This project is in the early planning/conceptual  stages.
+
+* Ground floor
+* East wing path
+* West wing path
 
 ### TRLN Discovery (2017-present)
 
-Supervise and steer project UX development for all project phases. Prioritize user interface design choices in consultation
-with stakeholders. Integrate desired functionality into a default Blacklight library catalog application,  up to wireframe. Provide
-interface and interaction design input on application as a whole.
+The TRLN Discovery project is a consortial online library catalog, integrating the collections of Duke, UNC, NC Central, and NC State Universities. Dre is the lead UX designer on the developer team; he supervises and steers project UX development through all project phases, including prioritizing user interface design choices in consultation with stakeholders and developers; integrating desired functionality into the wireframe; and providing interface and interaction design input on application as a whole. This project is in late alpha.
 
 * Dre's wireframe
 * Current design
 
 ### Meeting room control panel interface (2017)
 
-Revise existing room-control panel, integrating existing functionality into a more consistent and coherent design; develop
-a design that could be modularized to be used for multiple meeting rooms with varying technology.
+A project to revise existing room-control panel, integrating existing functionality into a more consistent and coherent design, and to develop a design that could be modularized to be used for multiple meeting rooms with varying technology. Dre designed the interface through the wireframe stage, providing additional feedback and quality assurance on the design treatment and implemented version.
 
 * Original design
 * Dre's commentary
 * Dre's wireframe
 * Design treatment
 
+### How Do You Talk To a Building? Patron-facing tools for space and service discovery at the D.H. Hill Library (2016)
+
+A strategic initiative with a goal of enhancing patron-facing information at D. H. Hill Library, to ensure that patrons received in-building space and service information in a manner that was timely, relevant, and easy to comprehend. Dre was project lead.
+
+* [Presentation at UXLibs II Conference (2016)](https://docs.google.com/presentation/d/1mFBAnQjX8l3PDYyZnct4f7j3Aeej19FMF4u4L_uXYnM/edit?usp=sharing)
+
 ### Study room control panel interface (2016)
 
-Evaluate and revise proposed room-control panel interface for Hunt Library group study rooms; design revised interface up
-to wireframe.
+A project to evaluate and revise proposed room-control panel interface for Hunt Library group study rooms. Dre revised the provided comp and developed a new interface through the wireframe stage, providing additional feedback and quality assurance on the design treatment and implemented version.
 
 * Comp provided by client
 * Dre's feedback
@@ -38,26 +55,20 @@ to wireframe.
 
 ### Mid-South Fencers' Club Longsword Program logo (2017)
 
-Create a design appropriate for multiple applications (program logo, t-shirt design, club banner) to represent the Mid-South
-Fencers' Club longsword program, highlighting the club's Durham heritage and integrating the idea of the longsword into the logo.
+Dre is the lead instructor (and, as it turns out, lead designer) for Mid-South Fencers' Club's longsword program. His goal in this project was to create a design appropriate for multiple applications (program logo, t-shirt design, club banner) to represent the program, highlighting the club's Durham heritage and integrating the idea of the longsword into the logo.
 
 * [Dre's final design](./images/msfc-longsword.png)
 
 ### *One Perfect Source?* instructional video
 
-Tutorial video for freshman college students. "Your topic seemed so great! So why can't you find any information on it? If you're
-looking for an all-in-one source that addresses your topic perfectly, you might need a different approach"
+A tutorial video for freshman college students, created for the NCSU Libraries instruction program. "Your topic seemed so great! So why can't you find any information on it? If you're looking for an all-in-one source that addresses your topic perfectly, you might need a different approach." Dre's role: Writing, editing, audio production, cat consultant
 
 * [One Perfect Source?](https://www.youtube.com/watch?v=X2VR5adTjeM)
 
-**Role:** Writing, editing, audio production, cat consultant
 
 ### *Peer Review in 3 Minutes*** instructional video
 
-Tutorial video for freshman college students. "How do articles get peer reviewed? What role does peer review play in scholarly
-research and publication?"
-
-**Role:** Project co-lead, writing, editing
+A tutorial video for freshman college students, created for the NCSU Libraries instruction program. "How do articles get peer reviewed? What role does peer review play in scholarly research and publication?" Dre's role: Project co-lead, writing, editing
 
 * [Peer Review in 3 Minutes](https://www.youtube.com/watch?v=rOCQZ7QnoN0)
 
@@ -67,29 +78,20 @@ Virtual poster submission for ACRL 2015 conference. "In 2011, our three-libraria
 review and redesign of our online tutorial, with the goals of improving its curricular foundation, its technological underpinnings,
 and its sustainability, culminating in the “Teach Yourself” suite of instructional modules. This virtual poster presents our impetus
 for creating a new tutorial platform, the functional requirements we identified, and the features of our new framework. We also touch
-on evaluation and plans for future improvement."
-
-**Role:** Project co-lead, design, development, editing
+on evaluation and plans for future improvement." Dre's role: Project co-lead, design, development, editing
 
 * [Teach yourself: a more sustainable e-learning framework for first-year instruction](https://www.youtube.com/watch?v=S5LXaaPqJUc)
 
 ### *From Idea to Library* instructional video (2013)
 
-Tutorial video for freshman college students. "Where do research articles come from? How do they end up in your search results? This
-video has the answers."
-
-**Role:** Project lead, writing, editing, storyboarding
+A tutorial video for freshman college students, created for the NCSU Libraries instruction program. "Where do research articles come from? How do they end up in your search results? This video has the answers." Dre's role: Project lead, writing, editing, storyboarding
 
 * [From Idea to Library](https://www.youtube.com/watch?v=jaZUAHxSb9k)
 
 ### *Anatomy of a Scholarly Article* interactive tutorial (2009)
 
-Interactive tutorial highlighting the parts of a scholarly article, and the purpose and significance of each part.
-
-**Role:** Design, developmment, implementation
+An interactive tutorial highlighting the parts of a scholarly article, and the purpose and significance of each part. Although the definition of "peer reviewed article" is quite subtle, a college freshman will typically identify one taxonomically. This tutorial is meant to facilitate that sort of identification. Dre designed, developed, and implemented this tutorial from the ground up.
 
 * [Anatomy of a Scholarly Article](http://www.lib.ncsu.edu/tutorials/scholarly-articles/)
 
-## Presentations
-
-## Publications
+## Other Presentations and Publications
