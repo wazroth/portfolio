@@ -1,6 +1,8 @@
 A markdownedly brutalist portfolio
 ==================================
 
+<img src="./images/metadata-cat.png" style="float: right; width:250px;" />
+
 Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries.
 
 ## User experience design work
