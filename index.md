@@ -48,6 +48,8 @@ Fencers' Club longsword program, highlighting the club's Durham heritage and int
 Tutorial video for freshman college students. "Your topic seemed so great! So why can't you find any information on it? If you're 
 looking for an all-in-one source that addresses your topic perfectly, you might need a different approach"
 
+* [One Perfect Source?](https://www.youtube.com/watch?v=X2VR5adTjeM)
+
 **Role:** Writing, editing, audio production, cat consultant
 
 ### *Peer Review in 3 Minutes*** instructional video
@@ -56,6 +58,8 @@ Tutorial video for freshman college students. "How do articles get peer reviewed
 research and publication?"
 
 **Role:** Project co-lead, writing, editing 
+
+* [Peer Review in 3 Minutes](https://www.youtube.com/watch?v=rOCQZ7QnoN0)
 
 ### *Teach yourself: a more sustainable e-learning framework for first-year instruction* video "virtual poster"
 
@@ -67,20 +71,24 @@ on evaluation and plans for future improvement."
 
 **Role:** Project co-lead, design, development, editing
 
-### *From Idea to Library* instructional video
+* [Teach yourself: a more sustainable e-learning framework for first-year instruction](https://www.youtube.com/watch?v=S5LXaaPqJUc)
+
+### *From Idea to Library* instructional video (2013)
 
 Tutorial video for freshman college students. "Where do research articles come from? How do they end up in your search results? This 
 video has the answers."
 
 **Role:** Project lead, writing, editing, storyboarding
 
-### *Anatomy of a Scholarly Article* interactive tutorial
+* [From Idea to Library](https://www.youtube.com/watch?v=jaZUAHxSb9k)
+
+### *Anatomy of a Scholarly Article* interactive tutorial (2009)
 
 Interactive tutorial highlighting the parts of a scholarly article, and the purpose and significance of each part.
 
 **Role:** Design, developmment, implementation
 
-### Anatomy of a Scholarly Article
+* [Anatomy of a Scholarly Article](http://www.lib.ncsu.edu/tutorials/scholarly-articles/)
 
 ## Presentations
 
