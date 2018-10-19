@@ -3,13 +3,15 @@ A markdownedly brutalist portfolio
 
 <img src="./images/metadata-cat.png" style="float: right; width:250px;" />
 
-Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries.
+Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries. His work focuses on discovery systems, wayfinding, and interaction design. Areas of research interest include systems analysis and design ethics.
+
+Dre uses a potato phone and doesn't really do social media, which
 
 ## User experience design work
 
 ### D. H. Hill construction signage (2018-present)
 
-In 2019 and 2020, D. H. Hill Library will be undergoing a major renovation that will close 2-4 floors of the 11-floor building; this project aims to minimize space and service disruption and communicate the positive outcomes of the construction project through signage and web presence. This project is in the early planning/conceptual stages.
+In 2019 and 2020, D. H. Hill Library will be undergoing a major renovation that will disrupt 2-4 floors of the 11-floor building; this project aims to minimize space and service disruption and communicate the positive outcomes of the construction project through signage and web presence. This project is in the early planning/conceptual stages. Dre is co-manager on this project.
 
 * something
 * something
@@ -97,3 +99,30 @@ An interactive tutorial highlighting the parts of a scholarly article, and the p
 * [Anatomy of a Scholarly Article](http://www.lib.ncsu.edu/tutorials/scholarly-articles/)
 
 ## Other Presentations and Publications
+
+### Systems thinking: a practical field guide (2018)
+
+Presentation at the Code4Lib 2018 conference. An introduction to reading and analyzing systems in the wild, with an emphasis on unpacking a system's key features starting with scant information.
+
+* [Video](https://youtu.be/lH0SW_0n7Uc?t=4798)
+* [Slide deck](https://docs.google.com/presentation/d/1yWWNgq-qCNd4vRZ1-ciWXhSndpPIbRrqFsz5pQ5kHtk/edit)
+
+### Touchscreen interfaces in context (2017)
+
+AK Orphanides, CS Nam. (2017). Touchscreen interfaces in context: a systematic review of research into touchscreens across settings, populations, and implementations. *Applied Ergonomics* 61.
+
+* [Full article](./images/touchscreen-ergonomics.pdf)
+
+### It's made of people: designing systems for humans (2017)
+
+Invited keynote presentation at the Code4Lib 2017 conference. We rely on systems in our day-to-day work, but systems are at best flawed representations of our own work and our customers' goals. How do we ensure that our system is effective and friendly to the human actors in light of their inherent limitations?
+
+* [Video](https://docs.google.com/presentation/d/1U0_D6CU-VdxnCzKdDBaGVI_EVxqMCJ-cqoX45pMrAGQ/edit?usp=sharing)
+* [Slide deck](https://www.youtube.com/watch?v=eUArNAG-CY4&feature=youtu.be&t=3661)
+
+### Architecture is politics: the power and the perils of systems design (2016)
+
+Presentation at the Code4Lib 2016 conference. As the designers and implementers of complex systems (such as websites, discovery tools, and knowledge repositories), we have great -- if sometimes unrealized -- power. And, as Stan Lee says, with great power comes great responsibility.
+
+* [Video](https://youtu.be/P03kD_Q5qcU?t=2315)
+* [Slide deck](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?usp=sharing)
