@@ -31,9 +31,9 @@ I was presented with a proposed interface for a 4.3 inch touchscreen room-contro
 * [Dre's wireframes (PDF)](./images/amx-proposal.pdf)
 * [Final design comp (PDF)](./images/amx-final.pdf)
 
-### How Do You Talk To a Building? Patron-facing tools for space and service discovery at the D.H. Hill Library (2016)
+### How Do You Talk To a Building? Patron-facing tools for space and service discovery at the D.H. Hill Jr. Library (2016)
 
-A strategic initiative with a goal of enhancing patron-facing information at D. H. Hill Jr. Library, to ensure that patrons received in-building space and service information in a manner that was timely, relevant, and easy to comprehend. Dre was project lead.
+A strategic initiative with a goal of enhancing patron-facing information at the D. H. Hill Jr. Library, to ensure that patrons received in-building space and service information in a manner that was timely, relevant, and easy to comprehend. Dre was project lead.
 
 * [Slides for presentation at UXLibs II Conference (2016)](https://docs.google.com/presentation/d/1mFBAnQjX8l3PDYyZnct4f7j3Aeej19FMF4u4L_uXYnM/edit?usp=sharing)
 
