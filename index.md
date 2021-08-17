@@ -11,20 +11,20 @@ Dre uses a potato phone and doesn't really do social media.
 
 ### User interviews and paper prototyping for the Aligning Discovery and the User Journey project (2019)
 
-The project team sought to better understand project-based information discovery needs. We conducted user interviews with a faculty member and three students, then engaged the same participants in a paper prototyping exercise. I led multiple synthesis/analysis sessions based on wall-walk and affinity-mapping approaches. The recommendations fed into a subsequent design sprint by the team and so far has resulted in a number of changes across the Libraries website -- some still in the works.
+The project team sought to better understand faculty and students' information discovery needs in the context of completing research projects. We conducted user interviews with a faculty member and three students, then engaged the same participants in a paper prototyping exercise. I led multiple synthesis/analysis sessions based on wall-walk and affinity-mapping approaches. The recommendations fed into a subsequent design sprint by the team and so far has resulted in a number of changes across the Libraries website -- some still in the works.
 
 * [Project overview](https://www.lib.ncsu.edu/projects/identifying-user-needs)
 * [Presentation at Code4Lib 2020](https://youtu.be/6JHwdgNJ3ig?t=1293)
 
 ### Multimedia Seminar Center touch panel (2018)
 
-A from-scratch design for a 10-inch room control panel tasked with controlling too many inputs.
+A from-scratch design for a 10-inch touchscreen room control panel tasked with controlling too many inputs.
 
 * [Full wireframes with comments](https://lucid.app/lucidchart/ae96f3ba-f03f-4a7b-b72e-493536d1f0dc/view)
 
 ### Study Room control panel (2017)
 
-I was presented with a proposed interface for a room-control panel for library study rooms and asked to provide feedback. I provided a design critique and updated wireframes.
+I was presented with a proposed interface for a 4.3 inch touchscreen room-control panel for library study rooms and asked to provide feedback. I provided a UX critique and updated wireframes, and collaborated with a designer on-staff to develop a design comp.
 
 * [Original proposal (PDF)](./images/amx-original.pdf)
 * [Dre's critique (PDF)](./images/amx-comments.pdf)
@@ -35,7 +35,7 @@ I was presented with a proposed interface for a room-control panel for library s
 
 A strategic initiative with a goal of enhancing patron-facing information at D. H. Hill Jr. Library, to ensure that patrons received in-building space and service information in a manner that was timely, relevant, and easy to comprehend. Dre was project lead.
 
-* [Presentation at UXLibs II Conference (2016)](https://docs.google.com/presentation/d/1mFBAnQjX8l3PDYyZnct4f7j3Aeej19FMF4u4L_uXYnM/edit?usp=sharing)
+* [Slides for presentation at UXLibs II Conference (2016)](https://docs.google.com/presentation/d/1mFBAnQjX8l3PDYyZnct4f7j3Aeej19FMF4u4L_uXYnM/edit?usp=sharing)
 
 ## Selected Presentations
 
@@ -51,21 +51,21 @@ Presentation at UX Y'all 2020. How do we know whether a problem can be solved by
 Presentation at the Code4Lib 2018 conference; reprised at UX Y'all 2019. An introduction to reading and analyzing systems in the wild, with an emphasis on unpacking a system's key features starting with scant information.
 
 * [Video of Code4Lib presentation](https://youtu.be/lH0SW_0n7Uc?t=4798)
-* [Slide deck](https://docs.google.com/presentation/d/1yWWNgq-qCNd4vRZ1-ciWXhSndpPIbRrqFsz5pQ5kHtk/edit)
+* [Slides](https://docs.google.com/presentation/d/1yWWNgq-qCNd4vRZ1-ciWXhSndpPIbRrqFsz5pQ5kHtk/edit)
 
 ### It's made of people: designing systems for humans (2017)
 
 Invited keynote presentation at the Code4Lib 2017 conference. Reprised as an invited keynote at the 2019 NC Serials Conference and an invted talk at the 2019 East Carolina University Joyner Library Staff Development Day. We rely on systems in our day-to-day work, but systems are at best flawed representations of our own work and our customers' goals. How do we ensure that our system is effective and friendly to the human actors in light of their inherent limitations?
 
 * [Video of Code4Lib presentation](https://docs.google.com/presentation/d/1U0_D6CU-VdxnCzKdDBaGVI_EVxqMCJ-cqoX45pMrAGQ/edit?usp=sharing)
-* [Slide deck](https://www.youtube.com/watch?v=eUArNAG-CY4&feature=youtu.be&t=3661)
+* [Slides](https://www.youtube.com/watch?v=eUArNAG-CY4&feature=youtu.be&t=3661)
 
 ### Architecture is politics: the power and the perils of systems design (2016)
 
 Presentation at the Code4Lib 2016 conference. As the designers and implementers of complex systems (such as websites, discovery tools, and knowledge repositories), we have great -- if sometimes unrealized -- power. And, as Stan Lee says, with great power comes great responsibility.
 
 * [Video](https://youtu.be/P03kD_Q5qcU?t=2315)
-* [Slide deck](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?usp=sharing)
 
 ## Selected Publications
 
