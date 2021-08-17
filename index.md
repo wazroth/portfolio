@@ -30,7 +30,7 @@ I was presented with a proposed interface for a 4.3 inch touchscreen room-contro
 * [Dre's wireframes (PDF)](./images/amx-proposal.pdf)
 * [Final design comp (PDF)](./images/amx-final.pdf)
 
-### How Do You Talk To a Building? Patron-facing tools for space and service discovery at the D.H. Hill Jr. Library (2016)
+### How do you talk to a building? Patron-facing tools for space and service discovery at the D.H. Hill Jr. Library (2016)
 
 A strategic initiative with a goal of enhancing patron-facing information at the D. H. Hill Jr. Library, to ensure that patrons received in-building space and service information in a manner that was timely, relevant, and easy to comprehend. Dre was project lead.
 
@@ -38,7 +38,7 @@ A strategic initiative with a goal of enhancing patron-facing information at the
 
 ## Selected Presentations
 
-### The City and the City: Insider and outsider experiences in systems and UX
+### The City and the City: insider and outsider experiences in systems and UX
 
 Presentation at UX Y'all 2020. How do we know whether a problem can be solved by design? In this presentation I discuss the relationship between systems and UX, and look at the role that the boundaries we define play in the success or failure of our systems.
 
