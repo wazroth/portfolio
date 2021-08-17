@@ -1,8 +1,7 @@
 title: Portfolio
-description: A selected portfolio of awesome stuff I’ve worked on, with links
+description: Andreas Orphanides: selected projects
 google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
 
 gems:
   - jekyll-mentions
