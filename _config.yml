@@ -1,0 +1,8 @@
+title: Portfolio
+description: A selected portfolio of awesome stuff I’ve worked on, with links
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
