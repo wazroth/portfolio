@@ -26,10 +26,10 @@ A from-scratch design for a 10-inch room control panel tasked with controlling t
 
 I was presented with a proposed interface for a room-control panel for library study rooms and asked to provide feedback. I provided a design critique and updated wireframes.
 
-* Original proposal
-* Dre's critique
-* Dre's wireframes
-* Final design comp
+* [Original proposal (PDF)](./images/amx-original.pdf]
+* [Dre's critique (PDF)](./images/amx-comments.pdf]
+* [Dre's wireframes (PDF)](./images/amx-proposal.pdf]
+* [Final design comp (PDF)](./images/amx-final.pdf]
 
 ### How Do You Talk To a Building? Patron-facing tools for space and service discovery at the D.H. Hill Library (2016)
 
