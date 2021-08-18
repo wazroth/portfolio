@@ -1,4 +1,6 @@
-## Selected UX Projects
+[<-- home](/portfolio)
+
+## Selected Project Work
 
 ### User interviews and paper prototyping for the Aligning Discovery and the User Journey project (2019)
 
