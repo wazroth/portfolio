@@ -2,7 +2,10 @@
 
 Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries. His work focuses on discovery systems, wayfinding, and interaction design. Areas of research interest include systems analysis and design ethics.
 
-Dre uses a potato phone and doesn't really do social media.
+* [Presentations](./presentations.html)
+* [Publications](./publications.html)
+* [UX work](./projects.html)
+* [Graphical and video projects](./media.html)
 
 <div style="clear: both"></div>
 
@@ -42,9 +45,3 @@ In 2017, I was asked to provide feedback on a proposed interface for 4.3 inch to
 * [Dre's wireframes (PDF)](./images/amx-proposal.pdf)
 * [Final design comp (PDF)](./images/amx-final.pdf)
 
-## More of Dre's work
-
-* [Presentations](./presentations.html)
-* [Publications](./publications.html)
-* [UX work](./projects.html)
-* [Graphical and video projects](./media.html)
