@@ -21,10 +21,10 @@ Presentation at UX Y'all 2020. How do we know whether a problem can be solved by
 
 ### What a baby taught me about affordances (2019)
 
-Lightning talk at Code4Lib 2019. When my baby was about six months old, he gave me insight into how affordances work -- and how they fail.
+Lightning talk at Code4Lib 2019. When my oldest kid was a few months old, he gave me insight into how affordances work -- and how they fail.
 
 * [Video of Code4Lib lightning talk](https://youtu.be/uXYIjJrfqnI?t=998)
-* [Slides](https://docs.google.com/presentation/d/1Uvi37lN1198snmkYbTmQ-f58_rtsjXYbr6n73hEYchY/edit]
+* [Slides](https://docs.google.com/presentation/d/1Uvi37lN1198snmkYbTmQ-f58_rtsjXYbr6n73hEYchY/edit)
 
 ### Systems thinking: a practical field guide (2018)
 
