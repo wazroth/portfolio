@@ -1,11 +1,18 @@
 ## Selected Presentations
 
-### The City and the City: insider and outsider experiences in systems and UX
+### The City and the City: insider and outsider experiences in systems and UX (2020)
 
 Presentation at UX Y'all 2020. How do we know whether a problem can be solved by design? In this presentation I discuss the relationship between systems and UX, and look at the role that the boundaries we define play in the success or failure of our systems.
 
 * [Video of UX Y'all presentation](https://www.youtube.com/watch?v=mupR9w5NhxM)
 * [Slides](https://docs.google.com/presentation/d/12Q3ZTXZB92qib6ASadOlZYm-QrGvUpSvF0jufJSUW5U/edit)
+
+### What a baby taught me about affordances (2019)
+
+Lightning talk at Code4Lib 2019. When my baby was about six months old, he gave me insight into how affordances work -- and how they fail.
+
+* [Video of Code4Lib lightning talk](https://youtu.be/uXYIjJrfqnI?t=998)
+* [Slides](https://docs.google.com/presentation/d/1Uvi37lN1198snmkYbTmQ-f58_rtsjXYbr6n73hEYchY/edit]
 
 ### Systems thinking: a practical field guide (2018)
 
