@@ -1,4 +1,4 @@
-[&#2190; home](./)
+[&#2190; home](/portfolio)
 
 ## Selected Graphical and Video Projects
 
