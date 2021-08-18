@@ -25,7 +25,7 @@ How can libraries present an experience to users that better conforms with their
 
 ### Short talk (5 minutes): What a baby taught me about affordances (2019)
 
-Presented at [Code4Lib 2019](https://2019.code4lib.org/). When my baby was about six months old, he gave me insight into how affordances work -- and how they fail.
+Presented at [Code4Lib 2019](https://2019.code4lib.org/). When my oldest kid was a few months old, he gave me insight into how affordances work -- and how they fail.
 
 * [Video of Code4Lib lightning talk](https://youtu.be/uXYIjJrfqnI?t=998)
 * [Slides](https://docs.google.com/presentation/d/1Uvi37lN1198snmkYbTmQ-f58_rtsjXYbr6n73hEYchY/edit)
