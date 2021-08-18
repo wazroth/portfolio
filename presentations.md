@@ -2,6 +2,16 @@
 
 ## Selected Presentations
 
+### Fail4Lib Workshop (2013-present)
+
+Everyone experiences failure in their professional lives, but no one likes to talk about it. When we see failure approaching, we distance ourselves, avert our eyes, or -- if we're in its path -- brace for the worst. But failure has intrinsic value and is an essential step on the path to professional and organizational success. And since it’s inevitable, we ought to learn how to look back on our failures to derive value from them, and how to look ahead so that our past failures can inform our future successes.
+
+Fail4Lib is a perennial Code4Lib workshop offering dedicated to discussing and coming to terms with the failures that we all encounter in our professional lives. It is a safe space for us to explore failure, to talk about our own experiences with failure, and to encourage enlightened risk taking. The goal of Fail4Lib is for participants – and their organizations – to get better at failing gracefully, so that when we do fail, we do so in a way that moves us forward.
+
+Fail4Lib was created and originally co-facilitated by Jason Casden and myself, with Bret Davidson co-facilitating for several years. I have been facilitating the program on my own since 2017.
+
+* [9 years of Fail4Lib slides](https://drive.google.com/drive/folders/10Eo1T5RRA4NnrBS5E4ug8BbtUvbFBffP)
+
 ### The City and the City: insider and outsider experiences in systems and UX (2020)
 
 Presentation at UX Y'all 2020. How do we know whether a problem can be solved by design? In this presentation I discuss the relationship between systems and UX, and look at the role that the boundaries we define play in the success or failure of our systems.
