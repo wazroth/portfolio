@@ -18,7 +18,7 @@ Here's a sampling of my work. Start here to get a sense of who I am and what I d
 
 ### User research project: Aligning Discovery and the User Journey (2019-present)
 
-How can libraries present an experience to users that better conforms with their mental model of information seeking? This project endeavors to understand how users frame the problem of information discovery in an educational context. My contributions include project coordination, research design, conducting user research, leading analysis via affinity mapping, and participating in design and development of new website features based on study findings.
+How can libraries present an experience to users that better conforms with their mental model of information seeking? This project endeavors to understand how users frame the problem of information discovery in an educational context, so that library services can be framed to better match users' mental models. My contributions include project coordination, research design, conducting user research, leading analysis via affinity mapping, and participating in design and development of new website features based on study findings.
 
 * [User research overview](https://www.lib.ncsu.edu/projects/identifying-user-needs)
 * [Presentation at Code4Lib 2020](https://youtu.be/6JHwdgNJ3ig?t=1293)
