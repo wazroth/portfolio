@@ -1,6 +1,6 @@
 <img src="./images/metadata-cat.png" style="float: right; width:250px; margin-left: 20px;" />
 
-Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries. His work focuses on discovery systems, wayfinding, and interaction design. Areas of research interest include systems analysis and design ethics.
+Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolina State University Libraries. His work focuses on discovery systems, wayfinding, and interaction design. Areas of professional interest include systems analysis, human factors, and design ethics.
 
 * [Presentations](./presentations.html)
 * [Publications](./publications.html)
