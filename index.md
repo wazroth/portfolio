@@ -11,7 +11,7 @@ Andreas "Dre" Orphanides is Associate Head, User Experience at the North Carolin
 
 ## Just curious? Start with these three (or four) things.
 
-Here's a sampling of some of my favorite work. Start here to get a sense of what it is I do.
+Here's a sampling of my work. Start here to get a sense of who I am and what I do in UX and systems.
 
 ### User research project: Aligning Discovery and the User Journey (2019-present)
 
