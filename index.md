@@ -1,6 +1,6 @@
 <img src="./images/metadata-cat.png" style="float: right; width:250px; margin-left: 20px;" />
 
-Andreas "Dre" Orphanides is Associate Head, User Experience at the [North Carolina State University Libraries](https://www.lib.ncsu.edu). His work focuses on discovery systems, wayfinding, and interaction design. Areas of professional interest include systems analysis, human factors, and design ethics.
+I'm Andreas "Dre" Orphanides; I am Associate Head, User Experience at the [NC State University Libraries](https://www.lib.ncsu.edu). My work focuses on discovery systems, wayfinding, and interaction design. Areas of professional interest include systems analysis, human factors, and design ethics.
 
 * [Curriculum vitae (PDF)](./images/cv.pdf)
 * [Presentations](./presentations.html)
@@ -16,7 +16,7 @@ Here's a sampling of my work. Start here to get a sense of who I am and what I d
 
 ### User research project: Aligning Discovery and the User Journey (2019-present)
 
-How can libraries present an experience to users that better conforms with their mental model of information seeking? This project endeavors to understand how users frame the problem of information discovery in an educational context. Dre's contributions include project coordination, research desgin, conducting user research, leading analysis via affinity mapping, and participating in design and development of new website features based on study findings.
+How can libraries present an experience to users that better conforms with their mental model of information seeking? This project endeavors to understand how users frame the problem of information discovery in an educational context. My contributions include project coordination, research desgin, conducting user research, leading analysis via affinity mapping, and participating in design and development of new website features based on study findings.
 
 * [User research overview](https://www.lib.ncsu.edu/projects/identifying-user-needs)
 * [Presentation at Code4Lib 2020](https://youtu.be/6JHwdgNJ3ig?t=1293)
