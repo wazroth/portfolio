@@ -5,6 +5,7 @@ I'm Andreas "Dre" Orphanides, Associate Head, User Experience at the [NC State U
 Contact me at [akorphan@gmail.com](mailto:akorphan@gmail.com).
 
 * [Curriculum vitae (PDF)](./images/cv.pdf)
+* [Statement on diversity](./diversity.html)
 * [Presentations](./presentations.html)
 * [Publications](./publications.html)
 * [Web and UX projects](./projects.html)
