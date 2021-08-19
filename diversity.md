@@ -1,3 +1,5 @@
+[<-- home](./)
+
 ## Universal, ethical, compassionate design
 
 Central to effective development and stewardship of products and services is recognizing the diversity of the user base. Each participant in the systems I develop has their own needs, perspectives, and lived experiences that I am not and cannot be fully aware of. In recognition of this, I consult a range of end users, colleagues, and experts, considering and acting on their feedback so that the products I develop might address each user’s needs as effectively as possible. 
