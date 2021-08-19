@@ -27,7 +27,7 @@ How can libraries present an experience to users that better conforms with their
 
 Presented at [Code4Lib 2019](https://2019.code4lib.org/). When my oldest kid was a few months old, he gave me insight into how affordances work -- and how they fail.
 
-* [Video of Code4Lib lightning talk](https://youtu.be/uXYIjJrfqnI?t=998)
+* [Video of Code4Lib lightning talk](https://youtu.be/uXYIjJrfqnI?t=1001)
 * [Slides](https://docs.google.com/presentation/d/1Uvi37lN1198snmkYbTmQ-f58_rtsjXYbr6n73hEYchY/edit)
 
 Or, if you've got time for a full presentation...
