@@ -47,4 +47,3 @@ In 2017, I was asked to provide feedback on and redesign a proposed interface fo
 * [Dre's analysis (PDF)](./images/amx-comments.pdf)
 * [Dre's wireframes (PDF)](./images/amx-proposal.pdf)
 * [Final design comp (PDF)](./images/amx-final.pdf)
-* 
