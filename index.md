@@ -41,7 +41,7 @@ Presented at [UX Y'all 2020](https://www.uxyall.org/). How do we know whether a 
 
 ### Heuristic analysis and wireframing: Study Room control panel (2017)
 
-In 2017, I was asked to provide feedback on a proposed interface for 4.3 inch touchscreen room-control panels used in library study rooms. I provided a heuristics-based critique of the proposal, developed updated wireframes to address the identified issues, and collaborated with a designer on-staff to develop a design comp of the improved interface, which has since been put into service.
+In 2017, I was asked to provide feedback on and redesign a proposed interface for 4.3 inch touchscreen room-control panels used in library study rooms, on a timeline that did not accommodate user testing. I provided a heuristics-based critique of the original proposal provided by Libraries IT, developed updated wireframes to address the identified issues, and collaborated with a designer on-staff to develop a design comp of the improved interface, which has since been put into service.
 
 * [Original proposal (PDF)](./images/amx-original.pdf)
 * [Dre's analysis (PDF)](./images/amx-comments.pdf)
