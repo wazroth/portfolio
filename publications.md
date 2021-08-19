@@ -6,11 +6,11 @@
 
 K. Wilson and A. K. Orphanides (2018). [Conference reports: It’s made of people: designing systems for humans](./images/made-of-people.pdf). *Serials Review* 44(3), 211-216.
 
-### Touchscreen interfaces in context (2017)
+### Touchscreen Interfaces in Context (2017)
 
 A. K. Orphanides and C. S. Nam. (2017). [Touchscreen interfaces in context: a systematic review of research into touchscreens across settings, populations, and implementations](./images/touchscreen-ergonomics.pdf). *Applied Ergonomics* 61.
 
-### Getting creative with data visualization
+### Getting Creative with Data Visualization
 
 A. K. Orphanides. (2012). [Getting creative with data visualization: a case study](http://web.archive.org/web/20151216133552/https://acrl.ala.org/techconnect/post/getting-creative-with-data-visualization-a-case-study/). Blog post for *ACRL TechConnect*, March 8, 2012.
 
