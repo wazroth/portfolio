@@ -1,11 +1,3 @@
-<div class="sub-menu">
-  * [Home](./)
-  * Presentations (you are here)
-  * [Publications](./publications.html)
-  * [Web and UX projects](./projects.html)
-  * [Graphical and video projects](./media.html)
-</div>
-
 ## Selected Presentations and Workshops
 
 ### Fail4Lib Workshop (2013-present)
