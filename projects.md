@@ -7,13 +7,13 @@
 The project team sought to better understand faculty and students' information discovery needs in the context of completing research projects. We conducted user interviews with a faculty member and three students, then engaged the same participants in a paper prototyping exercise. I led multiple synthesis/analysis sessions based on wall-walk and affinity-mapping approaches. The recommendations fed into a subsequent design sprint by the team and so far has resulted in a number of changes across the Libraries website -- some still in the works.
 
 * [Project overview](https://www.lib.ncsu.edu/projects/identifying-user-needs)
-* [Presentation at Code4Lib 2020](https://youtu.be/6JHwdgNJ3ig?t=1293)
+* [Presentation at Code4Lib 2020 (YouTube, 20 minutes)](https://youtu.be/6JHwdgNJ3ig?t=1293)
 
 ### Multimedia Seminar Center touch panel (2018)
 
 A from-scratch design for a 10-inch touchscreen room control panel tasked with controlling too many inputs.
 
-* [Full wireframes with comments](https://lucid.app/lucidchart/ae96f3ba-f03f-4a7b-b72e-493536d1f0dc/view)
+* [Full wireframes with comments (LucidChart)](https://lucid.app/lucidchart/ae96f3ba-f03f-4a7b-b72e-493536d1f0dc/view)
 
 ### Study Room control panel (2017)
 
@@ -28,4 +28,4 @@ I was presented with a proposed interface for a 4.3 inch touchscreen room-contro
 
 A strategic initiative with a goal of enhancing patron-facing information at the D. H. Hill Jr. Library, to ensure that patrons received in-building space and service information in a manner that was timely, relevant, and easy to comprehend. I was project co-lead, with NC State Universty Libraries colleague Josephine McRobbie.
 
-* [Slides for presentation at UXLibs II Conference (2016)](https://docs.google.com/presentation/d/1mFBAnQjX8l3PDYyZnct4f7j3Aeej19FMF4u4L_uXYnM/edit?usp=sharing)
+* [Slides for presentation at UXLibs II Conference (2016) (Google Drive)](https://docs.google.com/presentation/d/1mFBAnQjX8l3PDYyZnct4f7j3Aeej19FMF4u4L_uXYnM/edit?usp=sharing)
