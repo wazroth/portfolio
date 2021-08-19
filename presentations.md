@@ -1,3 +1,11 @@
+<ul class="floaty-menu">
+  <li><a href="./">Home</a></li>
+  <li>Presentations (you are here></li>
+  <li><a href="./publications.html">Publications</a></li>
+  <li><a href="./projects.html">Web and UX projects</a></li>
+  <li><a href="./media.html">Graphical and video projects</a></li>
+</ul>
+
 ## Selected Presentations and Workshops
 
 ### Fail4Lib Workshop (2013-present)
