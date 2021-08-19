@@ -42,7 +42,7 @@ Presentation at [Code4Lib 2018](https://2018.code4lib.org/); reprised at [UX Y'a
 
 Invited keynote presentation at [Code4Lib 2017](https://2017.code4lib.org/). Reprised as an invited keynote at the 2019 NC Serials Conference and an invted talk at the 2019 East Carolina University Joyner Library Staff Development Day. We rely on systems in our day-to-day work, but systems are at best flawed representations of our own work and our customers' goals. How do we ensure that our system is effective and friendly to the human actors in light of their inherent limitations?
 
-* [Video of Code4Lib presentation (YouTube, 40 minutes)](https://www.youtube.com/watch?v=eUArNAG-CY4&feature=youtu.be&t=3661)
+* [Video of Code4Lib presentation (YouTube, 40 minutes)](https://www.youtube.com/watch?v=eUArNAG-CY4&t=3661)
 * [Slides (Google Drive)](https://docs.google.com/presentation/d/1U0_D6CU-VdxnCzKdDBaGVI_EVxqMCJ-cqoX45pMrAGQ/edit)
 
 ### Architecture is Politics: the Power and the Perils of Systems Design (2016)
