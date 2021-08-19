@@ -21,7 +21,7 @@ Presentation at UX Y'all 2020. How do we know whether a problem can be solved by
 
 Lightning talk at Code4Lib 2019. When my oldest kid was a few months old, he gave me insight into how affordances work -- and how they fail.
 
-* [Video of Code4Lib lightning talk (5 minutes)](https://youtu.be/uXYIjJrfqnI?t=998)
+* [Video of Code4Lib lightning talk (5 minutes)](https://youtu.be/uXYIjJrfqnI?t=1001)
 * [Slides](https://docs.google.com/presentation/d/1Uvi37lN1198snmkYbTmQ-f58_rtsjXYbr6n73hEYchY/edit)
 
 ### Shear forces: a conceptual model for understanding (and coping with) risk, change, and technical debt (2019)
