@@ -2,7 +2,7 @@
 
 I'm Andreas "Dre" Orphanides, Associate Head, User Experience at the [NC State University Libraries](https://www.lib.ncsu.edu). My work focuses on discovery systems, wayfinding, and interaction design. Areas of professional interest include systems analysis, human factors, and design ethics.
 
-Contact me at `akorphan (at) gmail.com`.
+Contact me at [akorphan@gmail.com](mailto:akorphan@gmail.com).
 
 * [Curriculum vitae (PDF)](./images/cv.pdf)
 * [Presentations](./presentations.html)
@@ -23,7 +23,7 @@ How can libraries present an experience to users that better conforms with their
 * [User research overview](https://www.lib.ncsu.edu/projects/identifying-user-needs)
 * [Presentation at Code4Lib 2020](https://youtu.be/6JHwdgNJ3ig?t=1293)
 
-### Short talk (5 minutes): What a baby taught me about affordances (2019)
+### Short talk (5 minutes): What a Baby Taught Me about Affordances (2019)
 
 Presented at [Code4Lib 2019](https://2019.code4lib.org/). When my oldest kid was a few months old, he gave me insight into how affordances work -- and how they fail.
 
@@ -32,14 +32,14 @@ Presented at [Code4Lib 2019](https://2019.code4lib.org/). When my oldest kid was
 
 Or, if you've got time for a full presentation...
 
-### Full talk (40 minutes): The City and the City: insider and outsider experiences in systems and UX (2020)
+### Full talk (40 minutes): The City and the City: Insider and Outsider Experiences in Systems and UX (2020)
 
 Presented at [UX Y'all 2020](https://www.uxyall.org/). How do we know whether a problem can be solved by design? When we design a system, who is an insider and who gets left on the outside? In this presentation I discuss the relationship between systems and UX, and look at the role that the boundaries we define play in the success or failure of our systems.
 
 * [Video of UX Y'all presentation](https://www.youtube.com/watch?v=mupR9w5NhxM)
 * [Slides](https://docs.google.com/presentation/d/12Q3ZTXZB92qib6ASadOlZYm-QrGvUpSvF0jufJSUW5U/edit)
 
-### Heuristic analysis and wireframing: Study Room control panel (2017)
+### Heuristic analysis and wireframing: Study Room Control Panel Design (2017)
 
 In 2017, I was asked to provide feedback on and redesign a proposed interface for 4.3 inch touchscreen room-control panels used in library study rooms, on a timeline that did not accommodate user testing. I provided a heuristics-based critique of the original proposal provided by Libraries IT, developed updated wireframes to address the identified issues, and collaborated with a designer on-staff to develop a design comp of the improved interface, which has since been put into service.
 
