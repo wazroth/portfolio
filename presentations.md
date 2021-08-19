@@ -1,9 +1,9 @@
 <div class="sub-menu">
-* [Home](./)
-* Presentations (you are here)
-* [Publications](./publications.html)
-* [Web and UX projects](./projects.html)
-* [Graphical and video projects](./media.html)
+  * [Home](./)
+  * Presentations (you are here)
+  * [Publications](./publications.html)
+  * [Web and UX projects](./projects.html)
+  * [Graphical and video projects](./media.html)
 </div>
 
 ## Selected Presentations and Workshops
