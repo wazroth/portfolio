@@ -14,7 +14,7 @@ Fail4Lib was created and originally co-facilitated by Jason Casden and myself, w
 
 Presentation at [UX Y'all 2020](https://www.uxyall.org/). How do we know whether a problem can be solved by design? In this presentation I discuss the relationship between systems and UX, and look at the role that the boundaries we define play in the success or failure of our systems.
 
-* [Video of UX Y'all presentation (YoouTube, 40 minutes)](https://www.youtube.com/watch?v=mupR9w5NhxM)
+* [Video of UX Y'all presentation (YouTube, 40 minutes)](https://www.youtube.com/watch?v=mupR9w5NhxM)
 * [Slides (Google Drive)](https://docs.google.com/presentation/d/12Q3ZTXZB92qib6ASadOlZYm-QrGvUpSvF0jufJSUW5U/edit)
 
 ### What a Baby Taught Me about Affordances (2019)
