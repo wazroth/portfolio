@@ -1,6 +1,6 @@
 [<-- home](/portfolio)
 
-## Selected Presentations
+## Selected Presentations and Workshops
 
 ### Fail4Lib Workshop (2013-present)
 
