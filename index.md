@@ -1,6 +1,6 @@
 <img src="./images/metadata-cat.png" style="float: right; width:250px; margin-left: 20px;" />
 
-I'm Andreas "Dre" Orphanides, Associate Head, User Experience at the [NC State University Libraries](https://www.lib.ncsu.edu). My work focuses on discovery systems, wayfinding, and interaction design. Areas of professional interest include systems analysis, human factors, and design ethics.
+I'm Andreas "Dre" Orphanides, Associate Head, User Experience at the [NC State University Libraries](https://www.lib.ncsu.edu). My work focuses on discovery systems, wayfinding, and human-information interaction. Areas of professional interest include systems analysis, human factors, and design ethics.
 
 Contact me at [akorphan@gmail.com](mailto:akorphan@gmail.com).
 
