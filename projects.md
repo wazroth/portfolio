@@ -13,11 +13,14 @@ The project team sought to better understand faculty and students' information d
 
 A from-scratch design for a 10-inch touchscreen room control panel tasked with controlling too many inputs.
 
-* [Full wireframes with comments (LucidChart)](https://lucid.app/lucidchart/ae96f3ba-f03f-4a7b-b72e-493536d1f0dc/view)
+* [Original interface (PDF)](./images/MSC-original.pdf)
+* [Dre's proposed interface -- full wireframes with comments (PDF)](./images/MSC-wireframe.pdf)
+* [Final design treatment for new interface (PDF)](./images/MSC-final.pdf)
+* [Project review case study (Google Slides)](https://docs.google.com/presentation/d/1UT-Q0S8V620TjSiOpu5mfLLyTx4oNdySwKIBOox-Bww/edit)
 
 ### Study Room control panel (2017)
 
-I was presented with a proposed interface for a 4.3 inch touchscreen room-control panel for library study rooms and asked to provide feedback. I provided a UX critique and updated wireframes, and collaborated with a designer on-staff to develop a design comp.
+In 2017, I was asked to provide feedback on and redesign a proposed interface for 4.3 inch touchscreen room-control panels used in library study rooms, on a timeline that did not accommodate user testing. I provided a heuristics-based critique of the original proposal provided by Libraries IT, developed updated wireframes to address the identified issues, and collaborated with a designer on-staff to develop a design comp of the improved interface, which has since been put into service.
 
 * [Original proposal (PDF)](./images/amx-original.pdf)
 * [Dre's critique (PDF)](./images/amx-comments.pdf)
