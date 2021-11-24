@@ -40,11 +40,11 @@ Presented at [UX Y'all 2020](https://www.uxyall.org/). How do we know whether a 
 * [Video of UX Y'all presentation (YouTube)](https://www.youtube.com/watch?v=mupR9w5NhxM)
 * [Slides (Google Drive)](https://docs.google.com/presentation/d/12Q3ZTXZB92qib6ASadOlZYm-QrGvUpSvF0jufJSUW5U/edit)
 
-### Heuristic analysis and wireframing: Study Room Control Panel Design (2017)
+### Wireframing, user testing, and client collaboration: Multimedia Seminar Center Control Panel Design (2018)
 
-In 2017, I was asked to provide feedback on and redesign a proposed interface for 4.3 inch touchscreen room-control panels used in library study rooms, on a timeline that did not accommodate user testing. I provided a heuristics-based critique of the original proposal provided by Libraries IT, developed updated wireframes to address the identified issues, and collaborated with a designer on-staff to develop a design comp of the improved interface, which has since been put into service.
+In 2018, I was asked by the Libraries IT department to design a staff-facing user interface for a 10-inch touch control panel that controls the complex AV setup in the Multimedia Seminar Center, a presentation space that also supports classroom capture and teleconferencing. This work required extensive on-site research and liaising with Libraries IT and the room's AV vendor to determine AV functionality, heuristic evaluation and development of mental models to create an interface design that presented the room's multiple functions in a sensible format, paper prototyping with Libraries staff to validate wireframing choices, and working with the Libraries' on-staff designer to develop the final design comp. One of my design goals for the interface was to allow it to serve as a modular platform for other rooms with similarly complex AV configurations.
 
-* [Original proposal (PDF)](./images/amx-original.pdf)
-* [Dre's analysis (PDF)](./images/amx-comments.pdf)
-* [Dre's wireframes (PDF)](./images/amx-proposal.pdf)
-* [Final design comp (PDF)](./images/amx-final.pdf)
+* [Original interface (PDF)](./images/MSC-original.pdf)
+* [Dre's proposed interface -- full wireframes with comments (PDF)](./images/MSC-wireframe.pdf)
+* [Final design treatment for new interface (PDF)](./images/MSC-design.pdf)
+* [Project review case study (Google Slides)](https://docs.google.com/presentation/d/1UT-Q0S8V620TjSiOpu5mfLLyTx4oNdySwKIBOox-Bww/edit)
