@@ -15,7 +15,7 @@ A from-scratch design for a 10-inch touchscreen room control panel tasked with c
 
 * [Original interface (PDF)](./images/MSC-original.pdf)
 * [Dre's proposed interface -- full wireframes with comments (PDF)](./images/MSC-wireframe.pdf)
-* [Final design treatment for new interface (PDF)](./images/MSC-final.pdf)
+* [Final design treatment for new interface (PDF)](./images/MSC-design.pdf)
 * [Project review case study (Google Slides)](https://docs.google.com/presentation/d/1UT-Q0S8V620TjSiOpu5mfLLyTx4oNdySwKIBOox-Bww/edit)
 
 ### Study Room control panel (2017)
